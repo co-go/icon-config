@@ -1,0 +1,16 @@
+{
+  "name": "icon-config",
+  "version": "1.0.0",
+  "description": "🪄 Tool to generate a valid mobileconfig with a set of user-defined icons",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwcorle/icon-config.git"
+  },
+  "author": "James Corley",
+  "license": "MIT",
+  "homepage": "https://github.com/jwcorle/icon-config#readme"
+}
