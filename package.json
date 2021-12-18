@@ -12,5 +12,9 @@
   },
   "author": "James Corley",
   "license": "MIT",
-  "homepage": "https://github.com/jwcorle/icon-config#readme"
+  "homepage": "https://github.com/jwcorle/icon-config#readme",
+  "dependencies": {
+    "uuid": "^8.3.2",
+    "xmlbuilder": "^15.1.1"
+  }
 }
